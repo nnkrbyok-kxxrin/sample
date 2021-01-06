@@ -1,13 +1,10 @@
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
-Git Githubのれんしゅう
+remote repository(Github)
+
+local repository(PCない)
+git init
+git remote add origin remote_repositoryのURL
+さぎょう
+git add file_name
+git commit -m 'ふぁいるをへんこうしました'
+git push origin master
 
